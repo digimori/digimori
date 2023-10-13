@@ -1,3 +1,8 @@
+
+<p align="center">
+<img src="/github-pages-1024x512.jpg"> 
+</p>
+
 <h1 align="center">Hi 👋, I'm Paige</h1>
 <h3 align="center">A super passionate Full-Stack Junior dev from the UK!</h3>
 
