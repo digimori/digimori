@@ -16,8 +16,8 @@ I also have a portfolio showcasing more of my projects and a form to contact me 
 
 ## Languages and Tools:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="padding-right: 10px;" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="padding-right: 10px;" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="padding-right: 10px;" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="padding-right: 10px;" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="padding-right: 10px;" width="30" height="30"/>
