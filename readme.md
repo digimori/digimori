@@ -12,9 +12,9 @@ I also have a portfolio showcasing more of my projects and a form to contact me 
 
 <hr>
 
-<p align="left">
 
 ## Languages and Tools:
+<p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
@@ -28,7 +28,8 @@ I also have a portfolio showcasing more of my projects and a form to contact me 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="padding-right: 10px;" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" style="padding-right: 10px;" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="padding-right: 10px;" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="padding-right: 10px;" width="30" height="30"/></p>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="padding-right: 10px;" width="30" height="30"/>
+</p>
 
 <hr>
 
